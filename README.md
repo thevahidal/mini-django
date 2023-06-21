@@ -14,7 +14,7 @@ To run this project, you'll need:
 To run the project, simply clone the repository and run the following command:
 
 ```bash
-python manage.py runserver
+python main.py runserver
 ```
 
 This will start the development server at (localhost:8000)[http://localhost:8000/]. You should see a "Hello World" message when you visit that URL in your web browser.
