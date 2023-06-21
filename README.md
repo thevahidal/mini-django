@@ -17,7 +17,7 @@ To run the project, simply clone the repository and run the following command:
 python manage.py runserver
 ```
 
-This will start the development server at (localhost:8000)[http://localhost:8000/]. You should see a "Hello World" message when you visit that URL in your web browser.
+This will start the development server at [localhost:8000](http://localhost:8000/). You should see a "Hello World" message when you visit that URL in your web browser.
 
 ## Features
 This project is unique in that it contains the entire Django project within a single Python script. This approach has several advantages, including:
